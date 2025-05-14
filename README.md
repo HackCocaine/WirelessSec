@@ -20,7 +20,7 @@ WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes ina
 | **Ataques a la Criptografía**   | Explotación de vulnerabilidades en WPA3-SAE (downgrade attacks).            |  
 | **Inyección de Tramas**         | Beacon Flooding, deautenticación masiva (DoS).                              |  
 | **Configuraciones Inseguras**   | Detección de WPS activado o SSID cloaking.                                  |  
-| **Componentes Vulnerables**     | Escaneo de firmwares en puntos de acceso (CVE-2023-XXXX) :cite[5]:cite[7]. |  
+| **Componentes Vulnerables**     | Escaneo de firmwares en puntos de acceso (CVE-2023-XXXX). |  
 
 ### 3. **Post-Explotación y Persistencia**  
 **Escenarios críticos**:  
