@@ -46,7 +46,7 @@ WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes ina
 ## 📊 Entregables al Cliente  
 1. **Wireless Threat Intelligence Report**:  
    - Heatmaps de cobertura y puntos críticos.  
-   - Análisis de vectores de ataque (ej. KRACK en WPA2) :cite[3]:cite[6].  
+   - Análisis de vectores de ataque.  
 2. **Plan de Remediation Dinámico**:  
    - Priorización con CVSS 4.0 + impacto empresarial.  
 3. **Certificación WirelessSec 2.0**: Sello de cumplimiento para stakeholders.  
