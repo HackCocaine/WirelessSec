@@ -1,8 +1,7 @@
 # WirelessSec 2.0: Metodología Vanguardista para Auditorías de Redes Inalámbricas  
 
 ## 📜 Introducción  
-WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes inalámbricas, combinando inteligencia de amenazas, automatización y principios *zero-trust*. Diseñado para entornos modernos (Wi-Fi 6E, IoT, 5G), supera marcos tradicionales con un enfoque proactivo y adaptable :cite[6]:cite[7].  
-
+WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes inalámbricas, combinando inteligencia de amenazas, automatización y principios *zero-trust*. Diseñado para entornos modernos (Wi-Fi 6E, IoT, 5G), supera marcos tradicionales con un enfoque proactivo y adaptable.
 ---
 
 ## 🔍 Fases de la Metodología  
@@ -54,4 +53,4 @@ WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes ina
 ---
 
 ## 🌐 Conclusión  
-WirelessSec 2.0 redefine las auditorías inalámbricas con un ciclo continuo de mejora, anticipando ataques futuros mediante inteligencia predictiva y automatización ética. **¿Adaptamos algún módulo a regulaciones específicas (ISO 27001) o tecnologías emergentes (6G)?** :cite[7]:cite[9].  
+WirelessSec 2.0 redefine las auditorías inalámbricas con un ciclo continuo de mejora, anticipando ataques futuros mediante inteligencia predictiva y automatización ética. **¿Adaptamos algún módulo a regulaciones específicas (ISO 27001) o tecnologías emergentes (6G).  
