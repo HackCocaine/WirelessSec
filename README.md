@@ -11,7 +11,7 @@ WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes ina
 **Objetivo**: Definir alcance técnico y regulatorio (GDPR, PCI-DSS).  
 **Actividades**:  
 - **Mapeo de activos**: Identificación de SSIDs, BSSIDs, protocolos (WPA3, WPA2-Enterprise) y dispositivos IoT.  
-- **Análisis de cumplimiento**: Verificación contra estándares como OWISAM-TR-002 para cifrados obsoletos :cite[1]:cite[6].  
+- **Análisis de cumplimiento**: Verificación contra estándares como OWISAM-TR-002 para cifrados obsoletos.  
 
 ### 2. **Simulación de Ataques Avanzados**  
 **Técnicas prioritarias**:  
@@ -25,7 +25,7 @@ WirelessSec 2.0 es un estándar innovador para evaluar la seguridad de redes ina
 ### 3. **Post-Explotación y Persistencia**  
 **Escenarios críticos**:  
 - **Redes Mesh**: Compromiso de nodos intermedios para redirigir tráfico.  
-- **Rogue AP con certificados falsos**: Simulación de APs legítimos con SSL vulnerables :cite[8].  
+- **Rogue AP con certificados falsos**: Simulación de APs legítimos con SSL vulnerables.  
 
 ### 4. **Remediation 360°**  
 **Estrategias**:  
